@@ -10,11 +10,13 @@ Fuel Usage Calculation: Enter custom or average MPG values to estimate fuel cons
 Proximity-Based Fuel Prices: Analyze real-time fuel prices along your route, generating a detailed breakdown per area.
 Total and Area-Specific Costs: Get a comprehensive cost overview and fuel price insights for smarter travel planning.
 Cross-Platform Compatibility: Available on both Android and iOS for convenient trip planning on the go.
+
 🌍 Why Use Fuel Route Calculator?
 
 Optimize trip costs with tailored fuel estimates.
 Stay informed with accurate price data based on location proximity.
 Simplify long-distance travel by visualizing fuel costs before you hit the road.
+
 💡 Technologies Used
 
 Google Maps API: Powering route calculations and location services.
