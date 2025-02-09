@@ -2,16 +2,16 @@
 
 Plan your trips smarter with precise fuel cost estimations
 
-Fuel Route Calculator is a cross-platform mobile application designed to help you efficiently plan your trips by estimating fuel usage and costs. Leveraging the power of the Google Maps API, this app provides accurate travel insights, from fuel consumption to price trends across your route.
+Fuel Advisory is a cross-platform mobile application designed to help you efficiently plan your trips by estimating fuel usage and costs. Leveraging the power of the Google Maps API, this app provides accurate travel insights, from fuel consumption to price trends across your route.
 
 🚀 Features
 
-Fuel Usage Calculation: Enter custom or average MPG values to estimate fuel consumption for any trip.
+Fuel Usage Calculation: Enter custom or average MPG values to estimate fuel consumption for any trip and save your vehicles for future trips.
 Proximity-Based Fuel Prices: Analyze real-time fuel prices along your route, generating a detailed breakdown per area.
 Total and Area-Specific Costs: Get a comprehensive cost overview and fuel price insights for smarter travel planning.
 Cross-Platform Compatibility: Available on both Android and iOS for convenient trip planning on the go.
 
-🌍 Why Use Fuel Route Calculator?
+🌍 Why Use Fuel Advisor?
 
 Optimize trip costs with tailored fuel estimates.
 Stay informed with accurate price data based on location proximity.
