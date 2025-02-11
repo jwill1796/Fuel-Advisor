@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Logging;
 
 namespace fuel_advisor_maui;
-
+// Entry of the application
 public static class MauiProgram
 {
 	public static MauiApp CreateMauiApp()
