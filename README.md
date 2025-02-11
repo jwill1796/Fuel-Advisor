@@ -22,5 +22,3 @@ Simplify long-distance travel by visualizing fuel costs before you hit the road.
 Google Maps API: Powering route calculations and location services.
 Fuel Price Integration: Smart algorithms to track and analyze price data.
 Cross-Platform Framework: Ensures smooth user experiences on both Android and iOS.
-
-![AI-gen image](https://github.com/user-attachments/assets/f875e763-1a73-4224-97d6-0b77391009c8)
