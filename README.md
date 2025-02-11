@@ -22,3 +22,7 @@ Simplify long-distance travel by visualizing fuel costs before you hit the road.
 Google Maps API: Powering route calculations and location services.
 Fuel Price Integration: Smart algorithms to track and analyze price data.
 Cross-Platform Framework: Ensures smooth user experiences on both Android and iOS.
+SQLite v1.9.172 (NuGet): For best practice use [visit](https://learn.microsoft.com/en-us/dotnet/maui/data-cloud/database-sqlite?view=net-maui-9.0).
+*SQLite NuGet JSON*:
+
+![SQLite Proj Reference](https://github.com/user-attachments/assets/56ed8e92-06e0-4771-8722-1838cd52aa36)
