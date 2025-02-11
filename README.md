@@ -26,3 +26,14 @@ SQLite v1.9.172 (NuGet): For best practice use [visit](https://learn.microsoft.c
 *SQLite NuGet JSON*:
 
 ![SQLite Proj Reference](https://github.com/user-attachments/assets/56ed8e92-06e0-4771-8722-1838cd52aa36)
+
+
+Documentation
+
+GitHub Branch Naming Convention: Follow this ![guide](https://medium.com/@abhay.pixolo/naming-conventions-for-git-branches-a-cheatsheet-8549feca2534)
+
+1. Feature Branches: These branches are used for developing new features. Use the prefix feature/. For instance, feature/login-system.
+1. Bugfix Branches: These branches are used to fix bugs in the code. Use the prefix bugfix/. For example, bugfix/header-styling.
+1. Hotfix Branches: These branches are made directly from the production branch to fix critical bugs in the production environment. Use the prefix hotfix/. For instance, hotfix/critical-security-issue.
+1. Release Branches: These branches are used to prepare for a new production release. They allow for last-minute dotting of i’s and crossing t’s. Use the prefix release/. For  example, release/v1.0.1.
+1. Documentation Branches: These branches are used to write, update, or fix documentation eg. the README.md file. Use the prefix docs/. For instance, docs/api-endpoints.
