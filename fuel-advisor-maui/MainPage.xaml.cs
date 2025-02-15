@@ -1,4 +1,6 @@
-﻿namespace fuel_advisor_maui;
+﻿using System.Collections.ObjectModel;
+
+namespace fuel_advisor_maui;
 
 public partial class MainPage : ContentPage
 {
@@ -20,5 +22,6 @@ public partial class MainPage : ContentPage
 
 		SemanticScreenReader.Announce(CounterBtn.Text);
 	}
+
 }
 

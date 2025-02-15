@@ -38,6 +38,7 @@
                Margin="0,20,0,0" /> 
 
             <Picker Title="Make"
+                    TitleColor="White"
                 TextColor="White"
                 BackgroundColor="#1A1A1A">
                 <Picker.ItemsSource>
@@ -56,8 +57,9 @@
                Margin="0,20,0,0" />
            
             <Picker Title="Model"
+                TitleColor="White"
                 TextColor="White"
-                BackgroundColor="#121212">
+                BackgroundColor="#1A1A1A">
                 <Picker.ItemsSource>
                     <x:Array Type="{x:Type x:String}">
                         <x:String>Mustang</x:String>
@@ -73,8 +75,10 @@
                HorizontalOptions="Start"
                Margin="0,20,0,0" />
             <Picker Title="Year"
+                TitleColor="White"
+ 
                 TextColor="White"
-                BackgroundColor="#121212">
+                BackgroundColor="#1A1A1A">
                <Picker.ItemsSource>
                     <x:Array Type="{x:Type x:String}">
                           <x:String>2022</x:String>
