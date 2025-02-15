@@ -3,7 +3,7 @@
     x:Class="fuel_advisor_maui.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:fuel_advisor_maui"
+    xmlns:local="clr-namespace:fuel_advisor_maui.Views"
     Shell.FlyoutBehavior="Flyout"
     Title="fuel_advisor_maui">
 

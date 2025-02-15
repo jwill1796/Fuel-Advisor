@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fuel-advisor-maui", "fuel-advisor-maui\fuel-advisor-maui.csproj", "{A4E0D392-F0EC-4C1F-A909-108E2639A226}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAUI-Library-Classes", "MAUI-Library-Classes\MAUI-Library-Classes.csproj", "{A9C99E82-E9D8-4F38-B6D6-C348D0303059}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,10 +16,6 @@ Global
 		{A4E0D392-F0EC-4C1F-A909-108E2639A226}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{A4E0D392-F0EC-4C1F-A909-108E2639A226}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4E0D392-F0EC-4C1F-A909-108E2639A226}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A9C99E82-E9D8-4F38-B6D6-C348D0303059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A9C99E82-E9D8-4F38-B6D6-C348D0303059}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A9C99E82-E9D8-4F38-B6D6-C348D0303059}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A9C99E82-E9D8-4F38-B6D6-C348D0303059}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
